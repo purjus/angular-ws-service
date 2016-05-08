@@ -1,0 +1,23 @@
+{
+  "name": "angular-ws-service",
+  "authors": [
+    "tom <t.vitureau@purjus.fr>"
+  ],
+  "description": "Angular tools for webservices",
+  "main": "angular-ws-service.js",
+  "keywords": [
+    "angular",
+    "tools",
+    "webservice"
+  ],
+  "license": "MIT",
+  "homepage": "http://purjus.fr",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "www/lib",
+    "test",
+    "tests"
+  ]
+}
