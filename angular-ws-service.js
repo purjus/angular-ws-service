@@ -15,7 +15,7 @@
      * @throws Exception
      * @see https://www.toptal.com/web/cookie-free-authentication-with-json-web-tokens-an-example-in-laravel-and-angularjs
      */
-    function urlBase64Decode(str) {
+    function strBase64Decode(str) {
       var output = str.replace('-', '+').replace('_', '/');
       switch (output.length % 4) {
         case 0:
@@ -47,7 +47,7 @@
     };
 
     return {
-        urlBase64Decode: urlBase64Decode,
+        strBase64Decode: strBase64Decode,
         objectToURLEncoded: objectToURLEncoded
     };
 
