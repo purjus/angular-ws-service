@@ -1,6 +1,16 @@
 # angular-ws-service
 Angular tools for webservices
 
+## Installation
+
+```sh
+bower install --save azzra/angular-ws-service
+```
+
+```js
+angular.module('app', ['angular-ws-service'])
+```
+
 ## API Documentation
 
 ### strBase64Decode
