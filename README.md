@@ -1,6 +1,12 @@
 # angular-ws-service
 Angular tools for webservices
 
+> DEPRECATED as it's only compatible with AngularJS
+
+> NO TESTS
+
+---
+
 ## Installation
 
 ```sh
