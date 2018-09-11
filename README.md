@@ -10,7 +10,7 @@ Angular tools for webservices
 ## Installation
 
 ```sh
-bower install --save azzra/angular-ws-service
+npm install --save purjus/angular-ws-service
 ```
 
 ```js

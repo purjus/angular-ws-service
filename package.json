@@ -3,18 +3,19 @@
   "version": "0.0.3",
   "description": "Angular tools for webservices",
   "main": "dist/angular-ws-service.min.js",
-  "dependencies": {},
+  "dependencies": {
+    "angular": "^1.5.6"
+  },
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-minify": "0.0.12"
   },
   "scripts": {
-    "install": "bower install",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/azzra/angular-ws-service.git"
+    "url": "git+https://github.com/purjus/angular-ws-service.git"
   },
   "keywords": [
     "angularjs",
@@ -23,7 +24,7 @@
   "author": "zzzra",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/azzra/angular-ws-service/issues"
+    "url": "https://github.com/purjus/angular-ws-service/issues"
   },
-  "homepage": "https://github.com/azzra/angular-ws-service#readme"
+  "homepage": "https://github.com/purjus/angular-ws-service#readme"
 }
