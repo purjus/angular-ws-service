@@ -1,6 +1,6 @@
 {
   "name": "angular-ws-service",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Angular tools for webservices",
   "main": "dist/angular-ws-service.min.js",
   "dependencies": {
