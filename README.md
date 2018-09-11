@@ -10,7 +10,7 @@ Angular tools for webservices
 ## Installation
 
 ```sh
-npm install --save thibautjudepj/angular-ws-service
+npm install --save angular-ws-service
 ```
 
 ```js
